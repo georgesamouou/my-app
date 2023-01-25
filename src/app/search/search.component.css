@@ -1,0 +1,13 @@
+.searchInput{
+    border:none;
+    background-color: #EEEEEE;
+    height: 50px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.searchIco{
+    display: inline-block;
+    position: relative;
+    right: 30px;
+    font-size: 20px;
+}

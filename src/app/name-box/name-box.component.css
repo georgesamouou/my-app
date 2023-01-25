@@ -1,0 +1,12 @@
+.boxName{
+    display: inline-block;
+    background-color: #29ABF4;
+    color: white;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin: 5px;
+    padding-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
